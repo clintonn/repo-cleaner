@@ -18,4 +18,4 @@ Where `GITHUB_PAT` is a [generated personal access token](https://github.com/set
 # Running
 `ruby main.rb`
 
-**WARNING**: Answering y at the prompt WILL delete all the repos printed that match the FS_MATCHER you provide.
+**WARNING**: Answering `y` at the prompt WILL delete all the repos printed that match the `FS_MATCHER` you provide.
